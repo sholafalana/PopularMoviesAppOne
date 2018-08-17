@@ -166,7 +166,7 @@ public class MainActivity extends AppCompatActivity implements MovieAdapter.OnIt
     }
 
     private String formatDate(String date) {
-        SimpleDateFormat dateFormatter = new SimpleDateFormat ("yyyy-MM-dd");
+        SimpleDateFormat dateFormatter = new SimpleDateFormat("yyyy-MM-dd");
 
         String formattedDate;
 
