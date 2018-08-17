@@ -2,13 +2,15 @@ package com.example.shola.popularmoviesapp.networkadapter;
 
 import android.net.Uri;
 
+import com.example.shola.popularmoviesapp.BuildConfig;
+
 /**
  * Created by shola on 8/8/2018.
  */
 
 public class NetworkQuery{
 
-    private static final String movieAPIKey = "placed_my_api_key_here";
+    private static final String movieAPIKey = BuildConfig.ApiKey;
 
 
     public String defaultQuery() {
