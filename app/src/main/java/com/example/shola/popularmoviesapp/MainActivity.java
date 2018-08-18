@@ -111,7 +111,6 @@ public class MainActivity extends AppCompatActivity implements MovieAdapter.OnIt
                 //Clear current movies List Before parsing
                 mMovieList.clear();
                 JSONArray resultsArray = response.getJSONArray("results");
-
                 //Loop through results in array for populating the UI
                 for (int i = 0; i < resultsArray.length(); i++) {
                     JSONObject movieResult = resultsArray.getJSONObject(i);
