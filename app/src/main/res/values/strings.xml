@@ -7,9 +7,11 @@
     <string name="test_date">June 25, 2016</string>
     <string name="test_rating">4.5</string>
     <string name="test_plot">Fetching the description the movies</string>
-    <!--Menu Items -->
     <string name="most_popular">Most Popular</string>
     <string name="highest_rating">Highest Rated</string>
+    <string name="title_movies">POPULAR MOVIES LIBRARY</string>
+    <string name="get_movies">GET MOVIES</string>
+    <string name="about">ABOUT</string>
 
 
 </resources>
