@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">PopularMoviesApp</string>
-    <string name="plot">Plot Summary:</string>
-    <string name="user_rating">Rating:</string>
-    <string name="release_date">Release Date:</string>
+    <string name="plot">Plot Summary</string>
+    <string name="user_rating">Ratings</string>
+    <string name="release_date">Release Date</string>
     <string name="test_movie">Movie Title</string>
     <string name="test_date">June 25, 2016</string>
     <string name="test_rating">4.5</string>
